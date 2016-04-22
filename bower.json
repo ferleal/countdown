@@ -15,12 +15,8 @@
   ],
   "main": "jquery.countdown.js",
   "ignore": [
-    "*.gif",
     "*.html",
-    "*.json",
     "*.md",
-    "*.png",
-    "jquery.countdown-*.js",
     "jquery.*.min.js"
   ],
   "dependencies": {
